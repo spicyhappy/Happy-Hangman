@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>easyMode</key>
+	<false/>
+	<key>wordLength</key>
+	<integer>8</integer>
+	<key>allowedGuesses</key>
+	<integer>26</integer>
+</dict>
+</plist>
